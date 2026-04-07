@@ -4,19 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;Full-Stack+%7C+Trading+%7C+AI+Experience&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45" />
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://harukimizuno.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:mizunoharuki0624@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/haruki-mizuno-6310a6365/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://calendly.com/harukimizuno0222"><img alt="Calendar" src="https://img.shields.io/badge/Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
   <a href="https://github.com/0x0Zeus"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+</div> -->
 
 ---
 
 ## About
 
-I’m a Mobile App Developer with 7+ years of experience across full-stack engineering and trading-system development. I build high-performance iOS/Android apps (Swift, Kotlin, Flutter) and the backend + infra behind them (Node.js, AWS, Firebase). I also ship automation and analytics pipelines that combine live market data with AI-driven decision support.
+I’m a Mobile App Developer with 10+ years of experience across full-stack engineering and trading-system development. I build high-performance iOS/Android apps (Swift, Kotlin, Flutter) and the backend + infra behind them (Node.js, AWS, Firebase). I also ship automation and analytics pipelines that combine live market data with AI-driven decision support.
 
 ## Skills
 
@@ -73,11 +73,11 @@ I’m a Mobile App Developer with 7+ years of experience across full-stack engin
   </picture>
 </div>
 
----
+<!-- ---
 
-## Contact
+## Contact -->
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://harukimizuno.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:mizunoharuki0624@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -85,17 +85,17 @@ I’m a Mobile App Developer with 7+ years of experience across full-stack engin
 <a href="https://calendly.com/harukimizuno0222"><img alt="Calendar" src="https://img.shields.io/badge/Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
 <a href="https://github.com/0x0Zeus"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://t.me/exponinja0624"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://discord.com/users/haruki0624mizuno"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://teams.live.com/l/invite/FEAvireA0ryVcg_aAM?v=g1"><img alt="Microsoft Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /></a>
 
-</div>
+</div> -->
 
-![Moe Counter](https://count.getloli.com/@lazybigcat0624?name=lazybigcat0624&theme=sketch-1&padding=3&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
+<!-- ![Moe Counter](https://count.getloli.com/@lazybigcat0624?name=lazybigcat0624&theme=sketch-1&padding=3&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0) -->
 
 
 
